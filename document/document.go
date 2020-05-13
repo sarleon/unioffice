@@ -10,7 +10,6 @@ package document
 import (
 	"archive/zip"
 	"errors"
-	"flag"
 	"fmt"
 	"image"
 	"image/jpeg"
@@ -21,10 +20,7 @@ import (
 	"strings"
 
 	"github.com/sarleon/unioffice"
-	"github.com/sarleon/unioffice/color"
 	"github.com/sarleon/unioffice/common"
-	"github.com/sarleon/unioffice/common/license"
-	"github.com/sarleon/unioffice/measurement"
 	"github.com/sarleon/unioffice/zippkg"
 
 	"github.com/sarleon/unioffice/schema/soo/dml"
