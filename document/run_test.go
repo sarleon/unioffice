@@ -10,9 +10,9 @@ package document
 import (
 	"testing"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/sarleon/unioffice"
+	"github.com/sarleon/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/sarleon/unioffice/schema/soo/wml"
 )
 
 func TestRunClear(t *testing.T) {

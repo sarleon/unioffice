@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/document"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/sarleon/unioffice/color"
+	"github.com/sarleon/unioffice/document"
+	"github.com/sarleon/unioffice/measurement"
+	"github.com/sarleon/unioffice/schema/soo/wml"
 )
 
 func main() {

@@ -12,8 +12,8 @@ package pml
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/dml"
+	"github.com/sarleon/unioffice"
+	"github.com/sarleon/unioffice/schema/soo/dml"
 )
 
 type CT_EmbeddedFontListEntry struct {

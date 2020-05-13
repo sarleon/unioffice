@@ -8,9 +8,9 @@
 package spreadsheet
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/schema/soo/sml"
+	"github.com/sarleon/unioffice"
+	"github.com/sarleon/unioffice/color"
+	"github.com/sarleon/unioffice/schema/soo/sml"
 )
 
 // DataBarScale is a colored scale that fills the cell with a background

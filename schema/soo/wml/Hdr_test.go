@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/sarleon/unioffice/schema/soo/wml"
 )
 
 func TestHdrConstructor(t *testing.T) {

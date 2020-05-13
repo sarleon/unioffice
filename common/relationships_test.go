@@ -13,9 +13,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/testhelper"
-	"github.com/unidoc/unioffice/zippkg"
+	"github.com/sarleon/unioffice/common"
+	"github.com/sarleon/unioffice/testhelper"
+	"github.com/sarleon/unioffice/zippkg"
 )
 
 func TestRelationshipsUnmarshal(t *testing.T) {

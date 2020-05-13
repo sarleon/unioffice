@@ -8,8 +8,8 @@
 package document
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/sarleon/unioffice"
+	"github.com/sarleon/unioffice/schema/soo/wml"
 )
 
 // Settings controls the document settings.

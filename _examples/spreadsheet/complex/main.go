@@ -6,12 +6,12 @@ import (
 	"log"
 	"math/rand"
 
-	"github.com/unidoc/unioffice/chart"
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/spreadsheet"
+	"github.com/sarleon/unioffice/chart"
+	"github.com/sarleon/unioffice/color"
+	"github.com/sarleon/unioffice/measurement"
+	"github.com/sarleon/unioffice/spreadsheet"
 
-	"github.com/unidoc/unioffice/schema/soo/sml"
+	"github.com/sarleon/unioffice/schema/soo/sml"
 )
 
 func main() {

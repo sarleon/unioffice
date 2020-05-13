@@ -12,7 +12,7 @@ package chart
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
+	"github.com/sarleon/unioffice"
 )
 
 type EG_AxSharedChoice struct {
